@@ -24,14 +24,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbar01">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
+                    {{ config('app.name', 'VYS') }}
                 </a>
-                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
-                        <a class="nav-link text-success" href="/">Home <span class="sr-only">(current)</span></a>
-                    </li>
-
-                </ul>
+             
                 <div class="container-fluid">
                     <form class="form-inline  float-right  my-1">
                         <div class="input-group input-group-sm mr-0">

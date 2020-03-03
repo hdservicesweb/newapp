@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
-
+    // 'name' => env('APP_NAME', 'VYS'),
+    'name' => env('APP_NAME', 'newname'),
     /*
     |--------------------------------------------------------------------------
     | Application Environment
@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'env' => env('APP_ENV', 'production'),
+    'env' => env('APP_ENV', 'VYS'),
 
     /*
     |--------------------------------------------------------------------------
