@@ -39,7 +39,8 @@
                 @auth
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                    <button class="btn  btn-outline-success btn-sm text-white" id="menu-toggle">Menu</button>
+                    <button class="btn  btn-outline-success btn-sm text-white" id="menu-toggle"><i class="fa fa-align-justify" aria-hidden="true"></i>
+</button>
                         <!-- <a class="nav-link text-success" href="/">Home <span class="sr-only">(current)</span></a> -->
                     </li>
 
